@@ -5,6 +5,7 @@
 >### 开发环境：IDEA
 >### 框架：Spring Boot 、 MyBatis
 >### 数据库：MySQL
+>*注：数据库结构及模拟数据目录 database/edu.sql
 ***
 ## API：
 >### 学生登录:
